@@ -1,0 +1,6 @@
+framework module HXPRouter {
+  umbrella header "HXPRouter.h"
+
+  export *
+  module * { export * }
+}
